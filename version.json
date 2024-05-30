@@ -1,6 +1,18 @@
 {
   "plugins": [
     {
+      "id": "bein",
+      "name": "BeinConnect",
+      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BeinConnect.krd",
+      "version": "1.0"
+    },
+    {
+      "id": "digiturk",
+      "name": "Digiturk",
+      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Digiturk.krd",
+      "version": "1.0"
+    },
+    {
       "id": "blutv",
       "name": "BluTv",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BluTv.krd",
