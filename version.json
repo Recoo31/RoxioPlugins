@@ -1,14 +1,16 @@
-[
+{
+  "plugins": [
     {
       "id": "blutv",
       "name": "BluTv",
-      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BluTv.krd",
+      "url": "",
       "version": "1.0"
     },
     {
       "id": "filmbol",
-      "name": "Filmbol",
-      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Filmbol.krd",
+      "name": "BluTv",
+      "url": "",
       "version": "1.0"
     }
   ]
+}
