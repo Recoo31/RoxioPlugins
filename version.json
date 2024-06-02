@@ -1,6 +1,12 @@
 {
   "plugins": [
     {
+      "id": "disney",
+      "name": "Disney",
+      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Disney.krd",
+      "version": "1.0"
+    },
+    {
       "id": "bein",
       "name": "BeinConnect",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BeinConnect.krd",
@@ -19,7 +25,7 @@
       "version": "1.1"
     },
     {
-      "id": "Exxen",
+      "id": "exxen",
       "name": "Exxen",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Exxen.krd",
       "version": "1.0"
