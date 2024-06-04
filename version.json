@@ -35,6 +35,12 @@
       "name": "Filmbol",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Filmbol.krd",
       "version": "1.0"
+    },
+    {
+      "id": "tvplus",
+      "name": "TvPlus",
+      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/TvPlus.krd",
+      "version": "1.0"
     }
   ]
 }
