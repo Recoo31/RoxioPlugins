@@ -4,43 +4,43 @@
       "id": "disney",
       "name": "Disney",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Disney.krd",
-      "version": "1.1"
+      "version": "1.2"
     },
     {
       "id": "bein",
       "name": "BeinConnect",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BeinConnect.krd",
-      "version": "1.4"
+      "version": "1.5"
     },
     {
       "id": "digiturk",
       "name": "Digiturk",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Digiturk.krd",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "blutv",
       "name": "BluTv",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BluTv.krd",
-      "version": "1.1"
+      "version": "1.2"
     },
     {
       "id": "exxen",
       "name": "Exxen",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Exxen.krd",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "filmbol",
       "name": "Filmbol",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Filmbol.krd",
-      "version": "1.0"
+      "version": "1.1"
     },
     {
       "id": "tvplus",
       "name": "TvPlus",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/TvPlus.krd",
-      "version": "1.2"
+      "version": "1.3"
     }
   ]
 }
