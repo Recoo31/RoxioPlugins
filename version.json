@@ -41,6 +41,12 @@
       "name": "TvPlus",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/TvPlus.krd",
       "version": "1.5"
+    },
+    {
+      "id": "dsmart",
+      "name": "Dsmart-Go",
+      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Dsmart.krd",
+      "version": "1.0"
     }
   ]
 }
