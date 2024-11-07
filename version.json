@@ -8,6 +8,13 @@
       "active": false
     },
     {
+      "id": "tabii",
+      "name": "Tabii Spor",
+      "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/Tabii.krd",
+      "version": "1.0",
+      "active": true
+    },
+    {
       "id": "bein",
       "name": "BeinConnect",
       "url": "https://github.com/Recoo31/RoxioPlugins/raw/main/BeinConnect.krd",
