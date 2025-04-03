@@ -1,0 +1,10 @@
+{
+    "plugins": [{
+            "id": "anatomi",
+            "name": "Anatomi",
+            "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Anatomi.krd",
+            "version": "1.0",
+            "active": true
+        }
+    ]
+}
