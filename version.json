@@ -28,7 +28,7 @@
           "name": "Disney",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Disney.krd",
           "image": "https://i.ibb.co/ZMdgZVt/disney.png",
-          "version": "2.9",
+          "version": "3.0",
           "active": true
       },
       {
@@ -68,7 +68,7 @@
           "name": "Exxen",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Exxen.krd",
           "image": "https://i.ibb.co/G7DJzH5/Exxen.png",
-          "version": "1.8",
+          "version": "1.9",
           "active": true
       },
       {
