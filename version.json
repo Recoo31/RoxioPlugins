@@ -4,7 +4,7 @@
           "name": "BeinConnect",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/BeinConnect.krd",
           "image": "https://i.ibb.co/B36yWnm/tod.png",
-          "version": "1.2",
+          "version": "1.0",
           "active": true
       },
       {
@@ -20,7 +20,7 @@
           "name": "Digiturk",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Digiturk.krd",
           "image": "https://i.ibb.co/HKHLwvx/digi.png",
-          "version": "1.2",
+          "version": "1.0",
           "active": true
       },
       {
@@ -28,7 +28,7 @@
           "name": "Disney",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Disney.krd",
           "image": "https://i.ibb.co/ZMdgZVt/disney.png",
-          "version": "3.0",
+          "version": "1.0",
           "active": true
       },
       {
@@ -36,7 +36,7 @@
           "name": "Roxio Movies",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Filmbol.krd",
           "image": "https://i.ibb.co/cCs6XPp/filmbol.png",
-          "version": "1.8",
+          "version": "1.0",
           "active": false
       },
       {
@@ -44,7 +44,7 @@
           "name": "Tabii",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Tabii.krd",
           "image": "https://i.ibb.co/Vt3hZBY/Tabii.png",
-          "version": "1.7",
+          "version": "1.0",
           "active": true
       },
       {
@@ -52,7 +52,7 @@
           "name": "TvPlus",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/TvPlus.krd",
           "image": "https://i.ibb.co/58q9907/tvplus.png",
-          "version": "2.3",
+          "version": "1.0",
           "active": true
       },
       {
@@ -60,7 +60,7 @@
           "name": "Emby",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Emby.krd",
           "image": "https://i.ibb.co/MnddHgK/emby.png",
-          "version": "1.7",
+          "version": "1.0",
           "active": true
       },
       {
@@ -68,7 +68,7 @@
           "name": "Exxen",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Exxen.krd",
           "image": "https://i.ibb.co/G7DJzH5/Exxen.png",
-          "version": "1.9",
+          "version": "1.0",
           "active": true
       },
       {
@@ -76,7 +76,7 @@
           "name": "Ssport",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Ssport.krd",
           "image": "https://i.ibb.co/BHXgZgYc/ssport.png",
-          "version": "1.2",
+          "version": "1.0",
           "active": true
       }
       ,
@@ -85,7 +85,7 @@
           "name": "Dsmart",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Dsmart.krd",
           "image": "https://i.ibb.co/JjwnS4wq/dsmart.png",
-          "version": "1.3",
+          "version": "1.0",
           "active": true
       }
   ]
