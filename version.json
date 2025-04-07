@@ -60,7 +60,7 @@
           "name": "Emby",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Emby.krd",
           "image": "https://i.ibb.co/MnddHgK/emby.png",
-          "version": "1.0",
+          "version": "1.1",
           "active": true
       },
       {
