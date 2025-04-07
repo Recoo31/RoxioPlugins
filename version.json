@@ -57,10 +57,10 @@
       },
       {
           "id": "emby",
-          "name": "Emby",
+          "name": "Roxio Movie",
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Emby.krd",
-          "image": "https://i.ibb.co/MnddHgK/emby.png",
-          "version": "1.1",
+          "image": "https://i.ibb.co/6cR3Hqcr/jellyfin.png",
+          "version": "1.2",
           "active": true
       },
       {
