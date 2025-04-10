@@ -61,7 +61,7 @@
           "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/Emby.krd",
           "image": "https://i.ibb.co/6cR3Hqcr/jellyfin.png",
           "version": "1.4",
-          "active": true
+          "active": false
       },
       {
           "id": "exxen",
