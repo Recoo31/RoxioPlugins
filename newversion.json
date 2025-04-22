@@ -33,18 +33,18 @@
             "active": true
         },
         {
-            "id": "digiturk",
-            "name": "Digiturk",
-            "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/plugins/Digiturk.krd",
-            "image": "https://i.ibb.co/HKHLwvx/digi.png",
-            "version": "1.0",
-            "active": true
-        },
-        {
             "id": "tabii",
             "name": "Tabii",
             "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/plugins/Tabii.krd",
             "image": "https://i.ibb.co/Vt3hZBY/Tabii.png",
+            "version": "1.0",
+            "active": true
+        },
+        {
+            "id": "gain",
+            "name": "Gain",
+            "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/plugins/Gain.krd",
+            "image": "https://i.ibb.co/nMF8fRnJ/gain.png",
             "version": "1.0",
             "active": true
         },
@@ -69,6 +69,14 @@
             "name": "Exxen",
             "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/plugins/Exxen.krd",
             "image": "https://i.ibb.co/G7DJzH5/Exxen.png",
+            "version": "1.0",
+            "active": true
+        },
+        {
+            "id": "digiturk",
+            "name": "Digiturk",
+            "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/plugins/Digiturk.krd",
+            "image": "https://i.ibb.co/HKHLwvx/digi.png",
             "version": "1.0",
             "active": true
         },
