@@ -94,7 +94,7 @@
             "url": "https://raw.githubusercontent.com/Recoo31/RoxioPlugins/refs/heads/main/plugins/Tivibu.krd",
             "image": "https://i.ibb.co/G4mNV2s2/tivibu.png",
             "version": "1.1",
-            "active": true
+            "active": false
         },
         {
             "id": "dsmart",
